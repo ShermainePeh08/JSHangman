@@ -7,5 +7,5 @@
 - 10 Attempts with a hangman part drawn with each wrong guess
 - 2 minute timer to complete the game
 
-## Game Process Video Link
+### Game Process Video Link
 https://vimeo.com/722209274
