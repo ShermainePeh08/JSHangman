@@ -1,4 +1,5 @@
 # Javascript-Hangman-Game
+Visit the game here: https://shermainepeh08.github.io/JSHangman/
 ## Functions
 - Choose a category (animal, food, transport)
 - Choose a level (easy, medium, hard)
